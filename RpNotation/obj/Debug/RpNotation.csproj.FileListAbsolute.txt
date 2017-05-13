@@ -1,0 +1,9 @@
+C:\Users\rraigar\AppData\Local\Temporary Projects\RpNotation\bin\Debug\RpNotation.exe.config
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\bin\Debug\RpNotation.exe.config
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\bin\Debug\RpNotation.exe
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\bin\Debug\RpNotation.pdb
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\bin\Debug\nunit.framework.dll
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\bin\Debug\nunit.framework.xml
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\obj\Debug\RpNotation.csprojResolveAssemblyReference.cache
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\obj\Debug\RpNotation.exe
+C:\Users\rraigar\Documents\Visual Studio 2015\Projects\RpNotation\RpNotation\obj\Debug\RpNotation.pdb
